@@ -1,0 +1,32 @@
+{"users":[
+{
+      "phone": "+923001234567",
+      "name": "Nabia Sheikh",
+      "Gender": "Female",
+      "Temporary_Address": "Lyari Karachi",
+      "Permanent_Address": "Baldia , Karachi",
+      "Father’s Name": "Muhammad Arfeen",
+      "Mother’s Name": "abc",
+      "Grandfather’s Name": "abc",
+      "Married Status": "Single",
+      "Education Level": "Undergraduate",
+      "Occupation": "Student",
+      "NIC": "4240112345678",
+      "Blood Group": "A+"
+    },
+    {
+      "phone": "+923001000000",
+      "Name": "Urooj Sheikh",
+      "Gender": "Female",
+      "Temporary_Address": "Karachi",
+      "Permanent_Address": "Karachi",
+      "Father’s Name": "xyz",
+      "Mother’s Name": "xyz",
+      "Grandfather’s Name": "xyz",
+      "Married Status": "Single",
+      "Education Level": "MSc",
+      "Occupation": "Teacher",
+      "NIC": "4124254598464",
+      "Blood Group": "A+"
+    }
+]}
