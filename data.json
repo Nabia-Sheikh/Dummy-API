@@ -1,5 +1,5 @@
 {"users":[
-       {
+      {
       "phone": "+923001000001",
       "Name": "Sir Khuda Bhuksh",
       "Gender": "Male",
@@ -14,7 +14,7 @@
       "NIC": "4124254598464",
       "Blood Group": "A+"
     },
-{
+    {
       "phone": "+923001234567",
       "name": "Nabia Sheikh",
       "Gender": "Female",
